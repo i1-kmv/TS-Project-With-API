@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TS-Project-With-API/static/css/main.aa207b39.chunk.css",
+    "main.js": "/TS-Project-With-API/static/js/main.e02598a2.chunk.js",
+    "main.js.map": "/TS-Project-With-API/static/js/main.e02598a2.chunk.js.map",
+    "runtime-main.js": "/TS-Project-With-API/static/js/runtime-main.0458d3a2.js",
+    "runtime-main.js.map": "/TS-Project-With-API/static/js/runtime-main.0458d3a2.js.map",
+    "static/js/2.1966919a.chunk.js": "/TS-Project-With-API/static/js/2.1966919a.chunk.js",
+    "static/js/2.1966919a.chunk.js.map": "/TS-Project-With-API/static/js/2.1966919a.chunk.js.map",
+    "index.html": "/TS-Project-With-API/index.html",
+    "precache-manifest.7167510f1088cd20bc41a9ce3b7de9a0.js": "/TS-Project-With-API/precache-manifest.7167510f1088cd20bc41a9ce3b7de9a0.js",
+    "service-worker.js": "/TS-Project-With-API/service-worker.js",
+    "static/css/main.aa207b39.chunk.css.map": "/TS-Project-With-API/static/css/main.aa207b39.chunk.css.map",
+    "static/js/2.1966919a.chunk.js.LICENSE.txt": "/TS-Project-With-API/static/js/2.1966919a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0458d3a2.js",
+    "static/js/2.1966919a.chunk.js",
+    "static/css/main.aa207b39.chunk.css",
+    "static/js/main.e02598a2.chunk.js"
+  ]
+}
